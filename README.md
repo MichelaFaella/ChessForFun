@@ -1,7 +1,7 @@
 # Being Digital
 
 <p align = "center">
-  <image></image>
+  <img src = "logo.png" width="577" alt="Logo">
 </p>
 
 <p align = "center">
