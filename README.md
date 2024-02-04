@@ -1,15 +1,13 @@
 # Being Digital
 
 <p align = "center">
-  
+  <image></image>
 </p>
 
 <p align = "center">
-  Python project
-  <br>
-  created for fun.
+  Python project  created for fun.
 </p>
-<h3>P1 vs IA</h3>
+<h3 align = "center">P1 vs IA</h3>
 
 # Project description and introduction
 
